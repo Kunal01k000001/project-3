@@ -1,0 +1,295 @@
+@media only screen and (max-width:591px){
+    .section-1-text1{
+        width: 100%;
+    }
+    .section-1-text2{
+        width: 100%;
+    }
+    .section-2{
+    height: 300px;
+    gap: 30px;
+    
+    }
+    .section-2-class1{
+        width: 27%;
+    }
+    .section-2-class1 h6{
+        font-size: 9px;
+    }
+    .section-2-class2 h2{
+font-size:15px ;
+    }
+    .section-2-class3 {
+        width: 31%;
+        justify-content: center;
+        gap: 15px;
+
+        height: 153px;
+    }
+    .section-2-class3 p{
+        font-size: 11px;
+    }
+    .section-2-class3 button{
+        padding: 7px 7px;
+        font-size: 11px;
+    }
+    .section-3{
+        height:auto;
+        gap: 15px;
+        flex-wrap: wrap;
+    }
+    .section-3-card1{
+        width: 75%;
+        height: 300px;
+        gap: 210px;
+    
+    }
+.section-3-card1 h3{
+    font-size: 15px;
+}
+.section-3-card2{
+width: 75%;
+height: 300px;
+gap: 210px;
+}
+.section-3-card2 h3{
+    font-size: 15px;
+}
+.section-3-card3{
+    width: 75%;
+    height: 300px;
+    gap: 210px;
+}
+.section-3-card3 h3{
+    font-size: 15px;
+}
+.section-3-card4{
+    width: 75%;
+    height: 300px;
+    gap: 210px;
+}
+.section-3-card4 h3 {
+    font-size: 15px;
+}
+.only-text{
+    height: 300px;
+
+    align-items: center;
+    gap: 30px;
+}
+.only-text h6{
+    margin-left: 0px;
+}
+.only-text h3{
+    margin-left: 0px;
+    font-size: 25px;
+}
+.section-4{
+    height: 300px;
+}
+.section-4-class1{
+    height: 100px;
+    gap: 15px;
+}
+.section-4-class1 img{
+    width: 50px;
+    height: 50px;
+}
+.section-4-class1 h3{
+    font-size: 11px;
+}
+.section-4-class2{
+    height: 100px;
+    gap: 15px;
+}
+
+.section-4-class2 img{
+    width: 50px;
+    height: 50px;
+}
+.section-4-class2 h3{
+    font-size: 11px;
+}
+.section-4-class3{
+
+    height: 100px;
+    gap: 15px;
+}
+
+.section-4-class3 img{
+    width: 50px;
+    height: 50px;
+}
+.section-4-class3 h3{
+    font-size: 11px;
+}
+.section-4-class4{
+
+    height: 100px;
+    gap: 15px;
+}
+
+.section-4-class4 img{
+    width: 50px;
+    height: 50px;
+}
+.section-4-class4 h3{
+    font-size: 11px;
+}
+.section-5{
+    align-items: center;
+}
+.section-5 h6{
+    margin-left: 0px;
+}
+.section-5 h2{
+    margin-left: 0px;
+}
+.section-5 h5{
+    font-size: 7px;
+    margin-left: 0px;
+}
+.section-5 button{
+    margin-left: 0px;
+}
+.Text{
+    align-items: center;
+    height: 200px;
+}
+.Text h4{
+    font-size: 15px;
+}
+.section-6{
+    height: auto;
+}
+.section-6-text h3{
+    font-size: 15px;
+}
+.section-6-text{
+    width: 80%;
+    height: 210px;
+    justify-content: center;
+
+}
+.section-6-text h4{
+    font-size: 15px;
+}
+.section-6-text h5{
+    margin-top: -11px;
+}
+.section-6-text h3{
+    font-size: 25px;
+}
+.section-6-image1{
+    width: 100%;
+    flex-direction: column;
+    height: auto;
+    gap: 30px;
+    
+}
+.section-6-image1 img{
+    width: 85%;
+    height: 270px;
+}
+.section-6-image2{
+    width: 100%;
+    flex-direction: column;
+    height: auto;
+    gap: 30px;
+
+}
+.section-6-image2 img{
+    width: 85%;
+    height: 270px;
+}
+.section-7{
+
+    gap: 30px;
+}
+.section-7-image{
+
+    width: 51%;
+    height: 377px;
+}
+.section-7-image img{
+    height: 370px;
+
+}
+.section-7-text{
+    width: 51%;
+
+  height: 377px;
+  gap: 30px;
+}
+.section-7-text img{
+width: 50px;
+height: 50px;
+margin-top:-50px;
+
+}
+.section-7-text h2{
+    font-size: 17px;
+}
+.section-7-text button{
+    padding: 11px 11px;
+}
+.section-8{
+    height: auto;
+}
+.section-8-classes{
+    flex-direction: column;
+    height: auto;
+}
+.section-8-class1{
+    width: 87%;
+    height: 270px;
+}
+.section-8-class2{
+width: 87%;
+height: 270px;
+}
+.section-9{
+    height: auto;
+}
+.section-9-text{
+    gap: 23px;
+}
+.section-9-text h2{
+    font-size: 21px;
+}
+.section-9-image{
+    width: 61%;
+}
+.section-9-image img{
+    height: 300px;
+
+}
+.section-9-text h6{
+    margin-left: 20px;
+}
+.section-9-text h2{
+    margin-left: 20px;
+}
+.section-9-text h5{
+    margin-left: 20px;
+}
+.section-9-text button{
+    margin-left: 20px;
+}
+.section-10-num{
+width: 100%;
+}
+.section-10-num span{
+    font-size: 31px;
+}
+.section-10-text{
+width: 100%;
+}
+.section-11{
+    gap:30px;
+    height: 470px;
+}
+.section-11 h2{
+font-size: 31px;
+}
+}
